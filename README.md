@@ -1,1 +1,1 @@
-# Sales-Insights-using-Power-BI
+# Sales-Insights-EDA
